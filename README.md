@@ -6,7 +6,7 @@ O projeto inicial de consulta só continha, projection, sort, predicate, inclus�
 
 No fim a url ficava assim:
 
-/*Nome da pasta*/*Nome da classe*?*parâmetros*
+/Nome da pasta/Nome da classe?parâmetros
 
 Na classe de teste dá de ver melhor como os parâmetros eram passados na URL, mas uns possíveis exemplos são:
 
